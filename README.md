@@ -1,4 +1,4 @@
-##         /XXXXXXXXXXXXXXXXX\                        /XXXXXXXXXXXXXXXXX\         
+         /XXXXXXXXXXXXXXXXX\                        /XXXXXXXXXXXXXXXXX\         
    «XXXXX/'      /X\      '\XXXXXX            XXXXXX/`      /X\      `\XXXXX»   
 «XXX/'          / α \          X\XXX»      «XXX/X          / α \          `\XXX»
 XXXX            | ß |            XXXX»    «XXXX            | ß |            XXXX
