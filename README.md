@@ -1,13 +1,15 @@
 ## Guh              
-         /XXXXXXXXXXXXXXXXX\                        /XXXXXXXXXXXXXXXXX\         
-   «XXXXX/'      /X\      '\XXXXXX            XXXXXX/`      /X\      `\XXXXX»   
-«XXX/'          / α \          X\XXX»      «XXX/X          / α \          `\XXX»
-XXXX            | ß |            XXXX»    «XXXX            | ß |            XXXX
-XX«             | Θ |             »XXXX  XXXX«             | Θ |             »XX
-XXXX            | π |            XXXXXXXXXXXXXX            | π |            XXXX
-«XXX\,          \ E /          ,/XXXXXXXXXXXXXX\,          \ 3 /          ,/XXX»
-   «XXXXX\,      \X/      ,/XXXXXXXX»     «XXXXXXXXX\,      \X/      ,/XXXXX»   
-         \XXXXXXXXXXXXXXXXXXX/                    \XXXXXXXXXXXXXXXXXXX/         
+```
+                                     __  __                              __            __                                     
+                                    /  |/  |                            /  |          /  |                                    
+        ______    _______   _______ $$/ $$/         ______    ______   _$$ |_         $$ |____    ______    ______    ______  
+       /      \  /       | /       |/  |/  |       /      \  /      \ / $$   |        $$      \  /      \  /      \  /      \ 
+       $$$$$$  |/$$$$$$$/ /$$$$$$$/ $$ |$$ |       $$$$$$  |/$$$$$$  |$$$$$$/         $$$$$$$  |/$$$$$$  |/$$$$$$  |/$$$$$$  |
+       /    $$ |$$      \ $$ |      $$ |$$ |       /    $$ |$$ |  $$/   $$ | __       $$ |  $$ |$$    $$ |$$ |  $$/ $$    $$ |
+      /$$$$$$$ | $$$$$$  |$$ \_____ $$ |$$ |      /$$$$$$$ |$$ |        $$ |/  |      $$ |  $$ |$$$$$$$$/ $$ |      $$$$$$$$/ 
+      $$    $$ |/     $$/ $$       |$$ |$$ |      $$    $$ |$$ |        $$  $$/       $$ |  $$ |$$       |$$ |      $$       |
+       $$$$$$$/ $$$$$$$/   $$$$$$$/ $$/ $$/        $$$$$$$/ $$/          $$$$/        $$/   $$/  $$$$$$$/ $$/        $$$$$$$/
+```
 
 <!--
 **aidanhallEE/aidanhallEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
